@@ -5,3 +5,4 @@ StarchJar is a collection of Front-End Tutorials/Side projects I'm doing :)
 2. first-react-app - GoldenLayout + Highcharts Finance Tutorial App
 ## Current Status:
 Split projects into folders. 
+Goal is to understand how react & html & css work together, in order to create things. 
